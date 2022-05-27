@@ -1,0 +1,9 @@
+.main-product-detail {
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+}
+
+.product-cards--container {
+    margin: 0 auto;
+}
